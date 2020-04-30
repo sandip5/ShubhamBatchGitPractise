@@ -5,5 +5,6 @@ public class Helloworld
 		System.out.println("Hellow world testing");
 		System.out.println('Hello conflict");
 		System.out.println("testing code for conflicts");
+		System.out.println("new feature added");
 	}	
 }
