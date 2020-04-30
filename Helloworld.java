@@ -8,5 +8,6 @@ public class Helloworld
 		System.out.println("new feature added");
 		System.out.println("added audio feature");
 		System.out.println("Added Multimedia feature");
+		System.out.println("Added video feature");
 	}	
 }
